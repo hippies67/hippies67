@@ -59,6 +59,9 @@ I am interested in full stack and recently focus on backend development. current
 </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=hippies67&color=blue)
+
+
 ## Reach me on <a href="https://github.com/hippies67"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikbal-malik-ramadhan-780669198/)
