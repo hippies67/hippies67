@@ -69,5 +69,6 @@ I am interested in full stack and recently focus on backend development. current
 <br />
 
 <a href="https://github.com/hippies67"><img src="https://imgur.com/rilHVxA.png"/></a>
-[![Image of https://github.com/hippies67/unique-profile-views-counter](https://github.com/hippies67/unique-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hippies67/unique-profile-views-counter)
+
+[![Image of https://github.com/hippies67/unique-profile-views-counter](https://github.com/hippies67/unique-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hippies67)
 
