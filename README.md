@@ -50,11 +50,11 @@ I am interested in full stack and recently focus on backend development. current
 </a>
 </p>
 
-## Reach me on <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## Reach me on <a href="https://github.com/hippies67"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikbal-malik-ramadhan-780669198/)
 [![Gmail](https://img.shields.io/badge/ikbal.malik26@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ikbal.malik26@gmail.com)
 
 <br />
 
-<img src="https://imgur.com/rilHVxA.png"/>
+<a href="https://github.com/hippies67"><img src="https://imgur.com/rilHVxA.png"/></a>
