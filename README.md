@@ -36,7 +36,7 @@ I am interested in full stack and recently focus on backend development. current
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)](https://trello.com/)
 [![XAMPP](https://img.shields.io/badge/-Xampp-000?&logo=Xampp)](https://www.apachefriends.org/)
-[![Phpmyadmin](https://img.shields.io/badge/-phpmyadmin-000?&logo=phpmyadmin)](https://www.apachefriends.org/)
+[![Phpmyadmin](https://img.shields.io/badge/-phpmyadmin-000?&logo=Phpmyadmin)](https://www.apachefriends.org/)
 [![Laragon](https://img.shields.io/badge/-Laragon-000?&logo=Laragon)](https://laragon.org/)
 
 ----
