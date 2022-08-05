@@ -8,15 +8,15 @@ I am interested in full stack and recently focus on backend development. current
 
 ## Languages
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=Jquery)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER_3-000?&logo=CODEIGNITER)
-![LARAVEL](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](http://pemira.unsap.ac.id)
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](http://pemira.unsap.ac.id)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](http://pemira.unsap.ac.id)
+[![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=Jquery)](http://pemira.unsap.ac.id)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)](http://pemira.unsap.ac.id)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](http://pemira.unsap.ac.id)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](http://pemira.unsap.ac.id)
+[![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER_3-000?&logo=CODEIGNITER)](http://pemira.unsap.ac.id)
+[![LARAVEL](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)](http://pemira.unsap.ac.id)
 
 ## Technologies
 
