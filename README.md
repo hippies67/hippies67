@@ -35,7 +35,7 @@ I am interested in full stack and recently focus on backend development. current
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)](https://trello.com/)
-
+[![XAMPP](https://img.shields.io/badge/Xampp-0052CC?style=flat&logo=xampp&logoColor=white)](https://xampp.com/)
 ----
 
 ## Commercial Projects
