@@ -65,6 +65,7 @@ I am interested in full stack and recently focus on backend development. current
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikbal-malik-ramadhan-780669198/)
 [![Gmail](https://img.shields.io/badge/ikbal.malik26@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ikbal.malik26@gmail.com)
+![](https://komarev.com/ghpvc/?username=hippies67&color=blue)
 
 <br />
 
