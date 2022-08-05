@@ -1,6 +1,6 @@
-# Hi there, I'm Ikbal Malik Ramadhan <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="0.1vw" /> 
+# Hi there, I'm Ikbal Malik Ramadhan <a href="https://github.com/hippies67"><img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="0.1vw" /></a>
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<a href="https://github.com/hippies67"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
 ## A passionately curious Backend Developer
 
