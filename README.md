@@ -48,7 +48,6 @@ I am interested in full stack and recently focus on backend development. current
 [![](https://img.shields.io/badge/-🧬%20Jaya%20Dwara%20-000)](https://jayadwara.id/)
 [![](https://img.shields.io/badge/-🧬%20Sumedang%20Lebaran%20Realtime%20-000)](https://lebaran.sumedangkab.go.id/)
 [![](https://img.shields.io/badge/-🧬%20SIKASEP%20-000)](https://sikasep.sumedangkab.go.id/)
-[![](https://img.shields.io/badge/-🧬%20Tahungoding%20-000)](https://tahungoding.id/)
 
 ## GitHub Analytics
 
