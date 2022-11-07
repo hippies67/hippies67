@@ -17,7 +17,8 @@ I am interested in full stack and recently focus on backend development. current
 [![Mysql](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com/)
 [![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER_3-000?&logo=CODEIGNITER)](https://www.codeigniter.com/userguide3/)
 [![LARAVEL](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)](https://laravel.com/)
-
+[![LIVEWIRE](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)](https://laravel.com/)
+[![REACT JS](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)](https://laravel.com/)
 ## Technologies
 
 [![Cpanel](https://img.shields.io/badge/-Cpanel-000?&logo=Cpanel&logoColor=F90)](https://cpanel.net/)
