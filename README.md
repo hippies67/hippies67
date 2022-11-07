@@ -29,6 +29,8 @@ I am interested in full stack and recently focus on backend development. current
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://www.php.net/)
 [![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER_3-000?&logo=CODEIGNITER)](https://www.codeigniter.com/userguide3/)
 [![LARAVEL](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)](https://laravel.com/)
+[![LIVEWIRE](https://img.shields.io/badge/-Livewire-000?&logo=Livewire)](https://laravel-livewire.com/)
+[![REACT JS](https://img.shields.io/badge/-ReactJs-000?&logo=React)](https://reactjs.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/)
