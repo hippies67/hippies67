@@ -51,7 +51,7 @@ I am interested in full stack and recently focus on backend development. current
 [![](https://img.shields.io/badge/-🧬%20Jaya%20Dwara%20-000)](https://jayadwara.id/)
 [![](https://img.shields.io/badge/-🧬%20Sumedang%20Lebaran%20Realtime%20-000)](https://lebaran.sumedangkab.go.id/)
 [![](https://img.shields.io/badge/-🧬%20SIKASEP%20-000)](https://sikasep.sumedangkab.go.id/)
-[![](https://img.shields.io/badge/-🧬%20United%20In%20Diversity%20E%20Office%20-000)](https://unitedindiversity.org/)
+[![](https://img.shields.io/badge/-🧬%20United%20In%20Diversity%20%20For%20The%20E%20Office%20App20-000)](https://unitedindiversity.org/)
 
 ## GitHub Analytics
 
