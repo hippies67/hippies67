@@ -2,9 +2,9 @@
 
 <a href="https://github.com/hippies67"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
-## A passionately curious Backend Developer
+## A passionately curious Fullstack Developer
 
-I am interested in full stack and recently focus on backend development. currently looking for new opportunities.
+I am interested in full-stack, currently looking for new opportunities.
 
 ## Languages
 
